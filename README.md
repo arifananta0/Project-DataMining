@@ -15,11 +15,17 @@ Membangun model machine learning yang dapat memprediksi hasil pertandingan sepak
 
 Model / Alur Penyelesaian:
 1Pengumpulan Data: Menggunakan dataset yang telah tersedia dalam format CSV (misalnya,matches.csv) yang berisi data lengkap dari pertandingan Premier League.
+
 2. Preprocessing Data: Melakukan pembersihan data yang mencakup penanganan nilai yang hilang, normalisasi, dan encoding atribut kategori.
+
 3. Eksplorasi Data: Menganalisis pola dan tren dalam data menggunakan visualisasi dan statistik deskriptif untuk mendapatkan wawasan awal.
+
 4. Pemilihan Model: Menerapkan berbagai algoritma machine learning, seperti Decision Tree, Random Forest, SVM, atau Logistic Regression untuk memprediksi hasil pertandingan.
+
 5. Evaluasi Model: Menggunakan metrik evaluasi seperti akurasi, precision, recall, dan F1-score untuk mengevaluasi kinerja setiap model.
+
 6. Optimasi Model: Melakukan tuning hyperparameter untuk memperbaiki performa model.
+
 7. Prediksi dan Analisis Hasil: Mengimplementasikan model pada data baru untuk
 memprediksi hasil pertandingan dan menganalisis faktor yang paling memengaruhi prediksi.
 -Bagan Alur Penyelesaian:
